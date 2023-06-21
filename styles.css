@@ -1,10 +1,10 @@
 body{
     display:flex;
     align-items: center;
-    justify-content: center;
-    padding-top:20px;
+    justify-content: space-evenly;
     background-color: hsl(199, 19%, 71%);
     Font-size: 15px;
+   padding-top:50px;
 }
 .attribution{
   font-size: 11px; text-align: center; 
